@@ -2,11 +2,9 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][version] = 7.26
+projects[drupal][version] = 7.31
 
-; Make profiles inherit from each other, see https://drupal.org/node/2067229
-; Allows to use this profile as a base profile including its modules
-;projects[drupal][patch][] = "http://drupal.org/files/2067229-2-inheritable-profiles.patch"
-;projects[drupal][patch][] = "https://drupal.org/files/1356276-D7-inheritable-profiles-multi_6.patch"
-
-projects[drupal][patch][] ="https://drupal.org/files/issues/inheritable-profiles-2067229-41.patch"
+; Make profiles inherit from each other
+; Allows to use MZ as a base profile including it's modules
+; @see https://drupal.org/node/2067229
+projects[drupal][patch][] = "http://drupal.org/files/2067229-2-inheritable-profiles.patch"
