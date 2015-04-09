@@ -7,5 +7,5 @@ includes[] = drupal-org-core.make
 ; Download the install profile and recursively build all its dependencies
 projects[mz][type] = "profile"
 projects[mz][download][type] = "git"
-projects[mz][download][url] = "https://github.com/marzeelabs/mz.git"
-projects[mz][download][branch] = "master"
+projects[mz][download][url] = "https://github.com/dcanetma/mz.git"
+projects[mz][download][branch] = "feature/entitycachecorrupt"
