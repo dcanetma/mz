@@ -17,6 +17,9 @@ projects[entity][subdir] = "contrib"
 projects[field_group][version] = 1.4
 projects[field_group][subdir] = "contrib"
 
+; Solve temporarily the problem with entitycache checksum hash verification
+; We store the file in our own servers temporarily
+; @see: https://www.drupal.org/node/2466899
 projects[entitycache][version] = 1.2
 projects[entitycache][subdir] = "contrib"
 projects[entitycache][download][type] = "get"
