@@ -13,7 +13,6 @@ dependencies[] = media
 dependencies[] = media_internet
 dependencies[] = strongarm
 dependencies[] = taxonomy
-dependencies[] = toolbar
 dependencies[] = workbench
 dependencies[] = workbench_media
 dependencies[] = workbench_moderation

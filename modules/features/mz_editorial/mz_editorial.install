@@ -1,1 +1,9 @@
 <?php
+
+
+function mz_editorial_install() {
+
+	// Enable toolbar
+  module_enable(array('toolbar'));
+
+}
