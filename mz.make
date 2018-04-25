@@ -23,7 +23,7 @@ projects[field_group][subdir] = "contrib"
 projects[entitycache][version] = 1.2
 projects[entitycache][subdir] = "contrib"
 projects[entitycache][download][type] = "get"
-projects[entitycache][download][url] = "http://www.season.es/patches/entitycache-7.x-1.2.ok.tar.gz"
+projects[entitycache][download][url] = "http://www.factsandfictions.net/patches/entitycache-7.x-1.2.ok.tar.gz"
 projects[entitycache][type] = "module"
 
 projects[entityreference][version] = 1.1
