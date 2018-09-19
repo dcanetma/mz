@@ -81,6 +81,10 @@ projects[advanced_help][subdir] = "contrib"
 
 projects[ctools][version] = 1.14
 projects[ctools][subdir] = "contrib"
+projects[ctools][download][type] = "get"
+projects[ctools][download][url] = "www.factsandfictions.net/modules/ctools-7.x-1.14.tar.gz"
+
+
 
 projects[module_filter][version] = 2.0
 projects[module_filter][subdir] = "contrib"
