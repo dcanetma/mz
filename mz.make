@@ -115,7 +115,7 @@ projects[libraries][subdir] = "contrib"
 ; projects[libraries][patch][] = "http://drupal.org/files/1811486-sub-profiles-2.patch"
 projects[libraries][patch][] = "http://gist.github.com/pvhee/7307987/raw/c2cbf531d6766895d4a25c6292974596f26b7d3f/gistfile1.txt"
 
-projects[jquery_update][version] = 3.0-alpha5
+projects[jquery_update][version] = 2.4
 projects[jquery_update][subdir] = "contrib"
 
 ; To fix role exports for deployments. See https://drupal.org/node/1702626
