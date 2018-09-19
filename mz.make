@@ -79,7 +79,7 @@ projects[admin_menu][subdir] = "contrib"
 projects[advanced_help][version] = 1.1
 projects[advanced_help][subdir] = "contrib"
 
-projects[ctools][version] = 1.7
+projects[ctools][version] = 1.14
 projects[ctools][subdir] = "contrib"
 
 projects[module_filter][version] = 2.0
